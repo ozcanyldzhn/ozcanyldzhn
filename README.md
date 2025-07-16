@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0AFFA5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+%C3%96zcan+YILDIZHAN;Computer+Engineering+Student;Fullstack+Developer;Merhaba," alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0AFFA5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+%C3%96zcan+YILDIZHAN;Computer+Engineering+Student;Fullstack+Developer;Merhaba,Ben+Özcan+YILDIZHAN;Bilgisayar+Mühendisliği+Öğrencisiyim" alt="Typing SVG" />
 </h1>
 
 ---
