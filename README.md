@@ -7,8 +7,8 @@
 
 ### 👨‍🎓 Hakkımda
 
-- 🎓 İzmir Bakırçay Üniversitesi 4. sınıf Bilgisayar Mühendisliği öğrencisiyim.  
-- 🌱 Fullstack geliştirme yolculuğundayım.  
+- 🎓 İzmir Bakırçay Üniversitesi Bilgisayar Mühendisliği Mezunuyum.  
+- 🌱 Software Engineer olarak çalışıyorum.  
 - 📫 Bana ulaş: **ozcan.yildizhan.ceng@gmail.com**
 
 ---
